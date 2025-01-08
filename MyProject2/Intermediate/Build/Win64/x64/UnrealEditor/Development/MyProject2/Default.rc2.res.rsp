@@ -83,5 +83,5 @@
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_IDENTIFIER=MyProject2
-/fo "D:\NBC_Unreal\NBC_Unreal\NBC_Unreal_C\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\Default.rc2.res"
+/fo "D:\NBC_C++\NBC_UnrealEngineUseProgram\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

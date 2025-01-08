@@ -1,12 +1,12 @@
-"D:\NBC_Unreal\NBC_Unreal\NBC_Unreal_C\MyProject2\Source\MyProject2\MyProject2.cpp"
-/FI"D:\NBC_Unreal\NBC_Unreal\NBC_Unreal_C\MyProject2\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"D:\NBC_Unreal\NBC_Unreal\NBC_Unreal_C\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\Definitions.MyProject2.h"
-/Yu"D:\NBC_Unreal\NBC_Unreal\NBC_Unreal_C\MyProject2\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"D:\NBC_Unreal\NBC_Unreal\NBC_Unreal_C\MyProject2\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"D:\NBC_Unreal\NBC_Unreal\NBC_Unreal_C\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.cpp.lc.obj"
-/experimental:log "D:\NBC_Unreal\NBC_Unreal\NBC_Unreal_C\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.cpp.sarif"
-/sourceDependencies"D:\NBC_Unreal\NBC_Unreal\NBC_Unreal_C\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.cpp.dep.lc.json"
-@"D:\NBC_Unreal\NBC_Unreal\NBC_Unreal_C\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.Shared.rsp"
+"D:\NBC_C++\NBC_UnrealEngineUseProgram\MyProject2\Source\MyProject2\MyProject2.cpp"
+/FI"D:\NBC_C++\NBC_UnrealEngineUseProgram\MyProject2\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"D:\NBC_C++\NBC_UnrealEngineUseProgram\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\Definitions.MyProject2.h"
+/Yu"D:\NBC_C++\NBC_UnrealEngineUseProgram\MyProject2\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"D:\NBC_C++\NBC_UnrealEngineUseProgram\MyProject2\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"D:\NBC_C++\NBC_UnrealEngineUseProgram\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.cpp.lc.obj"
+/experimental:log "D:\NBC_C++\NBC_UnrealEngineUseProgram\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.cpp.sarif"
+/sourceDependencies"D:\NBC_C++\NBC_UnrealEngineUseProgram\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.cpp.dep.lc.json"
+@"D:\NBC_C++\NBC_UnrealEngineUseProgram\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

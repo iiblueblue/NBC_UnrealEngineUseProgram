@@ -1,14 +1,14 @@
-"D:\NBC_Unreal\NBC_Unreal\NBC_Unreal_C\MyProject2\Source\MyProject2\Private\hello.cpp"
+"D:\NBC_C++\NBC_UnrealEngineUseProgram\MyProject2\Source\MyProject2\Private\hello.cpp"
 /external:W0
 /external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\INCLUDE"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"D:\NBC_Unreal\NBC_Unreal\NBC_Unreal_C\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\Definitions.MyProject2.h"
-/Fo"D:\NBC_Unreal\NBC_Unreal\NBC_Unreal_C\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\SingleFile\hello.cpp.obj"
-/sourceDependencies "D:\NBC_Unreal\NBC_Unreal\NBC_Unreal_C\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\SingleFile\hello.cpp.dep.json"
-@"D:\NBC_Unreal\NBC_Unreal\NBC_Unreal_C\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.Shared.rsp"
+/FI"D:\NBC_C++\NBC_UnrealEngineUseProgram\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\Definitions.MyProject2.h"
+/Fo"D:\NBC_C++\NBC_UnrealEngineUseProgram\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\SingleFile\hello.cpp.obj"
+/sourceDependencies "D:\NBC_C++\NBC_UnrealEngineUseProgram\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\SingleFile\hello.cpp.dep.json"
+@"D:\NBC_C++\NBC_UnrealEngineUseProgram\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo
