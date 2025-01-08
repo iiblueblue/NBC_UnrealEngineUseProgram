@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyProject2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyProject2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyProject2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MyProject2">
+      <UniqueIdentifier>{31BB7B44-83D7-3E7D-902C-BBA9392413B1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyProject2\MyProject2.Build.cs">
+      <Filter>Source\MyProject2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyProject2\MyProject2.cpp">
+      <Filter>Source\MyProject2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyProject2\MyProject2.h">
+      <Filter>Source\MyProject2</Filter>
+    </ClCompile>
+    <Filter Include="Source\MyProject2\Private">
+      <UniqueIdentifier>{E041AFB7-1FE1-3F8D-807A-63D123291E0C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyProject2\Private\hello.cpp">
+      <Filter>Source\MyProject2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyProject2\Private\MyActor.cpp">
+      <Filter>Source\MyProject2\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\MyProject2\Public">
+      <UniqueIdentifier>{72360B30-4ADA-3AEE-BF83-05F51D365389}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyProject2\Public\hello.h">
+      <Filter>Source\MyProject2\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyProject2\Public\MyActor.h">
+      <Filter>Source\MyProject2\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\nbc_unreal\\nbc_unreal\\nbc_unreal_c\\myproject2\\source\\myproject2\\private\\myactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\nbc_unreal\\nbc_unreal\\nbc_unreal_c\\myproject2\\intermediate\\build\\win64\\x64\\myproject2editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\nbc_unreal\\nbc_unreal\\nbc_unreal_c\\myproject2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myproject2\\definitions.myproject2.h",
+            "d:\\nbc_unreal\\nbc_unreal\\nbc_unreal_c\\myproject2\\source\\myproject2\\public\\myactor.h",
+            "d:\\nbc_unreal\\nbc_unreal\\nbc_unreal_c\\myproject2\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject2\\uht\\myactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
